@@ -12,7 +12,7 @@
 #### Tools
 [![](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud)](https://www.adobe.com/creativecloud.html)<br />
 [![](https://img.shields.io/badge/-Vegas%20Pro%2018.0-31A8FF?style=flat-square&logo=vv&logoColor=white)](https://www.vegascreativesoftware.com/us/vegas-pro/)
-[![](https://img.shields.io/badge/-FL%20Studio%2020-orange?style=flat-square&logo=FL&logoColor=white)](https://www.vegascreativesoftware.com/us/vegas-pro/)
+[![](https://img.shields.io/badge/-FL%20Studio%2020-orange?style=flat-square&logo=FL&logoColor=white)](https://www.flstudiochina.com/)
 [![](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![](https://img.shields.io/badge/-Audition-9999FF?style=flat-square&logo=adobeaudition&logoColor=white)](https://www.adobe.com/products/audition.html)
 [![](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premiere.html)
