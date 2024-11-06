@@ -1,4 +1,4 @@
-<big>稀神灵梦</big>，东方Project、音MAD爱好者<br>
+<big>稀神灵梦</big>，东方Project、音MAD创作者、东方同人社团天邪鬼夜行副催<br>
 邮件:helper@otomads.top
 #### OS
 [![](https://img.shields.io/badge/Windows-10-0078d4?style=flat-square&logo=microsoft&logoColor=white&labelColor=0078d4)](https://www.microsoft.com/windows/get-windows-11)
