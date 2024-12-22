@@ -1,5 +1,7 @@
-<big>稀神灵梦</big>，东方Project、音MAD创作者、东方同人社团天邪鬼夜行副催<br>
-邮件:helper@otomads.top
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAGUMEDREAM&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAGUMEDREAM)](https://github.com/anuraghazra/github-readme-stats)
+
 #### OS
 [![](https://img.shields.io/badge/Windows-10-0078d4?style=flat-square&logo=microsoft&logoColor=white&labelColor=0078d4)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/Windows-11-0078d4?style=flat-square&logo=microsoft&logoColor=white&labelColor=0078d4)](https://www.microsoft.com/windows/get-windows-11)
@@ -27,3 +29,6 @@
 [![](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 [![](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
+
+#### 联系方式
+邮件:helper@otomads.top
